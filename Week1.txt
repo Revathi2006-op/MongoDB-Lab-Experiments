@@ -1,0 +1,10 @@
+MongoDB Installation and Setup
+
+Installed MongoDB Community Server
+
+Installed MongoDB Compass
+
+Opened MongoDB Compass
+
+Connected using:
+mongodb://localhost:27017
